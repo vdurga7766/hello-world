@@ -1,0 +1,5 @@
+adding ()
+int a,s,b;
+a=32,b=65;
+s=a+b;
+printf("%d",s);
